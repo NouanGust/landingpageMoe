@@ -29,9 +29,37 @@
     },
     {
         "nome": "Ecobag Tem Mas Acabou!",
-        "colecao": "jhib",
+        "colecao": "madeinbrasil",
         "estampa": "assets/estampas/22.jpg",
         "preco": 40.90,
         "descricao": "Ecobag da coleção original 'Just Have in Brazil'."
+    },
+    {
+        "nome": "Ecobag Capivara",
+        "colecao": "fauna",
+        "estampa": "assets/estampas/13.jpg",
+        "preco": 40.90,
+        "descricao": "Ecobag personalizada de capivara da coleção Fauna."
+    },
+    {
+        "nome": "Ecobag Capiabelhas",
+        "colecao": "fauna",
+        "estampa": "assets/estampas/15.jpg",
+        "preco": 40.90,
+        "descricao": "Ecobag personalizada de capiabelhas da coleção Fauna."
+    },
+    {
+        "nome": "Ecobag Do you know Caipirinha?",
+        "colecao": "justhaveinbrasil",
+        "estampa": "assets/estampas/24.jpg",
+        "preco": 40.90,
+        "descricao": "Ecobag personalizada de capiabelhas da coleção Fauna."
+    },
+    {
+        "nome": "Ecobag Reliquias da Morte",
+        "colecao": "personagens",
+        "estampa": "assets/estampas/25.jpg",
+        "preco": 40.90,
+        "descricao": "Ecobag personalizada das reliquias da morte."
     }
 ]
