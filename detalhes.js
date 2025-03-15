@@ -25,7 +25,7 @@ function carregarDetalhesProduto() {
             document.getElementById("produto-descricao").textContent = produto.descricao;
             document.getElementById("produto-preco").textContent = produto.preco.toFixed(2);
             document.getElementById("produto-colecao").textContent = produto.colecao;
-            document.getElementById("produto-imagem").src = produto.estampa;
+            document.getElementById("produto-imagem").src = produto.estampa_png;
             document.getElementById("produto-imagem").alt = produto.nome;
 
             // Link para a compra externa (podemos definir URLs específicas depois)

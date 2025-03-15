@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         produtos.slice(0,3).forEach(produto => {
             const produtoHTML = `
-                <div class="col-md-3">
+                <div class="col">
                     <div class="card">
                         <img src="${produto.estampa}" class="card-img-top" alt="${produto.nome}">
                         <div class="card-body text-center">

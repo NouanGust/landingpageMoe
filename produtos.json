@@ -1,8 +1,16 @@
 [
     {
-        "nome": "Ecobag flor avatar",
+        "nome": "Ecobag Flor Dançante",
         "colecao": "floral",
-        "estampa": "assets/estampas/1.jpg",
+        "estampa": "assets/estampas/bolsadancante.jpg",
+        "estampa_png": "assets/estampas/flordancantepng.png",
+        "preco": 49.90,
+        "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul escura."
+    },
+    {
+        "nome": "Ecobag Flor Dançante png",
+        "colecao": "floral",
+        "estampa": "assets/estampas/flordancantepng.png",
         "preco": 49.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul escura."
     },
