@@ -17,9 +17,21 @@
     {
         "nome": "Ecobag Floral Azul-Clara",
         "colecao": "floral",
-        "estampa": "assets/estampas/2.jpg",
+        "estampa": "assets/estampas/1.jpg",
         "preco": 49.90,
-        "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul clara."
+        "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul clara.",
+        "cores": [
+            {
+                "nome": "Azul",
+                "codigo": "#4bb0dd",
+                "imagem": "assets/estampas/2.jpg"
+            },
+            {
+                "nome": "Azul",
+                "codigo": "#ed1b9d",
+                "imagem": "assets/estampas/8.jpg"
+            }
+        ]
     },
     {
         "nome": "Ecobag Floral Rosa",
