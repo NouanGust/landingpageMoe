@@ -2,7 +2,7 @@
     {
         "nome": "Ecobag Flor Dançante",
         "colecao": "floral",
-        "estampa": "assets/estampas/bolsadancante.jpg",
+        "estampa": "assets/estampas/1.jpg",
         "estampa_png": "assets/estampas/flordancantepng.png",
         "preco": 49.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul escura."
@@ -10,14 +10,14 @@
     {
         "nome": "Ecobag Frozinha",
         "colecao": "floral",
-        "estampa": "assets/estampas/bolsa_flor.jpg",
+        "estampa": "assets/estampas/2.jpg",
         "preco": 49.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul escura."
     },
     {
         "nome": "Ecobag Floral Azul-Clara",
         "colecao": "floral",
-        "estampa": "assets/estampas/1.jpg",
+        "estampa": "assets/estampas/3.jpg",
         "preco": 49.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral azul clara.",
         "cores": [
@@ -36,49 +36,49 @@
     {
         "nome": "Ecobag Floral Rosa",
         "colecao": "floral",
-        "estampa": "assets/estampas/8.jpg",
+        "estampa": "assets/estampas/4.jpg",
         "preco": 49.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa floral rosa."
     },
     {
         "nome": "Ecobag Flor Dançante",
         "colecao": "floral",
-        "estampa": "assets/estampas/16.jpg",
+        "estampa": "assets/estampas/5.jpg",
         "preco": 50.90,
         "descricao": "Uma linda e ecológica ecobag personalizada com estampa flor dançante"
     },
     {
         "nome": "Ecobag Tem Mas Acabou!",
         "colecao": "madeinbrasil",
-        "estampa": "assets/estampas/22.jpg",
+        "estampa": "assets/estampas/6.jpg",
         "preco": 40.90,
         "descricao": "Ecobag da coleção original 'Just Have in Brazil'."
     },
     {
         "nome": "Ecobag Capivara",
         "colecao": "fauna",
-        "estampa": "assets/estampas/13.jpg",
+        "estampa": "assets/estampas/7.jpg",
         "preco": 40.90,
         "descricao": "Ecobag personalizada de capivara da coleção Fauna."
     },
     {
         "nome": "Ecobag Capiabelhas",
         "colecao": "fauna",
-        "estampa": "assets/estampas/15.jpg",
+        "estampa": "assets/estampas/8.jpg",
         "preco": 40.90,
         "descricao": "Ecobag personalizada de capiabelhas da coleção Fauna."
     },
     {
         "nome": "Ecobag Do you know Caipirinha?",
         "colecao": "justhaveinbrasil",
-        "estampa": "assets/estampas/24.jpg",
+        "estampa": "assets/estampas/9.jpg",
         "preco": 40.90,
         "descricao": "Ecobag personalizada de capiabelhas da coleção Fauna."
     },
     {
         "nome": "Ecobag Reliquias da Morte",
         "colecao": "personagens",
-        "estampa": "assets/estampas/25.jpg",
+        "estampa": "assets/estampas/10.jpg",
         "preco": 40.90,
         "descricao": "Ecobag personalizada das reliquias da morte."
     }
